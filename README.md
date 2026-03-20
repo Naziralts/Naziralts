@@ -3,13 +3,31 @@
 🚀 Junior Flutter Developer passionate about building modern mobile apps
 
 💡 Skills:
-- Flutter & Dart
-- BLoC (State Management)
-- Clean Architecture
-- REST API (Dio)
-- Firebase (Auth, Firestore)
-- Hive / SQLite
 
+- Architecture & State Management:
+  Clean Architecture, BLoC, Cubit, Dependency Injection (GetIt), Equatable
+
+- Networking:
+  REST API integration, Dio, HTTP Interceptors
+
+- Backend & Cloud:
+  Firebase, Firebase Authentication, Cloud Firestore
+
+- Local Storage:
+  SQLite, Hive, SharedPreferences
+
+- Navigation:
+  go_router
+
+- Testing:
+  Unit Testing, Widget Testing, Integration Testing
+
+- UI Development:
+  Material 3, Adaptive UI, Animations, fl_chart
+
+- Tools:
+  Git, GitHub, Flutter DevTools, Android Studio, VS Code
+  
 📱 Projects:
 - Currency Converter App (API, Charts, Offline support)
 - Weather App (7-day forecast, BLoC, Themes)
