@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Nazira
 
-🚀 Junior Flutter Developer passionate about building modern mobile apps
+Flutter Developer passionate about building modern mobile apps
 
 💡 Skills:
 
