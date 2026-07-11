@@ -33,6 +33,7 @@ Flutter Developer passionate about building modern mobile apps
 - Weather App (7-day forecast, BLoC, Themes)
 - Chat App (Firebase Auth, Realtime Messaging, Push Notifications)
 - Rick and Morty App (Clean Architecture, Pagination, Search)
+- Finance Tracker App (Clean Architecture, BLoC, Local DB, Expense & Income Tracking)
 
 🎯 Currently:
 - Improving Flutter skills
